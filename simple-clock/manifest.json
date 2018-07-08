@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "simple-clock",
+  "version": "1.0.0",
+  "description": "A Simple Clock APP.",
+  "icons": {
+    "16": "imgs/icon_16.png",
+    "48": "imgs/icon_48.png",
+    "128": "imgs/icon_128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "imgs/icon_19.png",
+      "38": "imgs/icon_38.png"
+    },
+    "default_title": "Simple Clock",
+    "default_popup": "popup.html"
+  }
+}
