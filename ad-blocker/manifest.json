@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "simple-clock",
+  "name": "ad-blocker",
   "version": "1.0.0",
-  "description": "A simple clock app.",
+  "description": "An simple advertisement blocker.",
   "icons": {
     "16": "imgs/icon_16.png",
     "48": "imgs/icon_48.png",
@@ -13,7 +13,7 @@
       "19": "imgs/icon_19.png",
       "38": "imgs/icon_38.png"
     },
-    "default_title": "Simple Clock",
+    "default_title": "AD Blocker",
     "default_popup": "popup.html"
   }
 }
